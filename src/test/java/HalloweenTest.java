@@ -4,5 +4,8 @@ public class HalloweenTest {
         //new add and
         
         //add from git.com
+        // line 1
+        // line 2
+        // line 3
     }
 }
