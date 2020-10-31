@@ -1,6 +1,7 @@
 public class HalloweenTest {
-    //adding comment, message from master branch
     public static void main(String[] args) {
+        //adding stuff from master
+        //also adding stuff from magic
         //I am about to givee everyone candy
         //new add and
         
